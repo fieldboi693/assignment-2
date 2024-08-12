@@ -8,7 +8,7 @@
 #     print("The number is negative.")
 
 
-"correct code"
+# "correct code"
 
 number = int(input( "Enter number: "))
 
